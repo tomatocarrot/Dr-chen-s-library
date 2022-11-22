@@ -1,0 +1,6 @@
+https://tianchi.aliyun.com/?t=1665973614883
+https://www.numpy.org.cn/user/quickstart.html#%E5%85%88%E5%86%B3%E6%9D%A1%E4%BB%B6
+https://www.pypandas.cn/docs/getting_started/overview.html#%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84
+https://scikitlearn.com.cn/
+https://www.matplotlib.org.cn/intro/
+https://www.runoob.com/python3/
